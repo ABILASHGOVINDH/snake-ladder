@@ -1,4 +1,9 @@
-import queue
+iiimport queue
+
+avina@Abee MINGW64 ~/PycharmProjects/pythonProject (master)
+$ cat
+clear
+clear
 import sys
 import random
 
